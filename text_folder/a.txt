@@ -1,0 +1,3 @@
+I study python
+I like cooking
+I like sport
